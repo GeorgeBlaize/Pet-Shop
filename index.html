@@ -341,6 +341,17 @@
       </div>
     </footer>
   </main>
+
+  <!-- Minimal JS: mobile toggle -->
+  <script>
+    const mobileBtn = document.getElementById('mobileMenuBtn');
+    const mobileMenu = document.getElementById('mobileMenu');
+    let open = false;
+    mobileBtn?.addEventListener('click', () => {
+      open = !open;
+      mobileMenu.classList.toggle('hidden', !open);
+    });
+  </script>
     
 </body>
 </html>
