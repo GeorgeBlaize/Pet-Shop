@@ -25,6 +25,60 @@
   </style>
 </head>
 <body>
+
+     <!-- ===========================
+       NAVBAR
+  ============================ -->
+  <header class="bg-white border-b border-slate-100">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <!-- Left / Logo -->
+        <div class="flex items-center gap-3">
+          
+          <img src="assets/logo-header.png" alt="">
+          <div class="">
+            <div class="text-lg font-semibold">Browse<span class="text-yellow-500">4</span>Pets</div>
+           
+          </div>
+        </div>
+
+        <!-- Center / Links -->
+        <nav class="hidden md:flex items-center gap-8 text-sm font-medium text-slate-700">
+          <a href="#" class="hover:text-yellow-500">Find a pet</a>
+          <a href="#" class="hover:text-yellow-500">Breeds</a>
+          <a href="#" class="hover:text-yellow-500">Contact us</a>
+        </nav>
+
+        <!-- Right / Actions -->
+        <div class="hidden md:flex items-center gap-3">
+             <i class="fas fa-search text-slate-700 text-lg hover:text-yellow-500 cursor-pointer"></i>
+          <i class="fas fa-shopping-cart text-slate-700 text-lg hover:text-yellow-500 cursor-pointer"></i>
+          <button class="px-3 py-1.5 rounded-md border border-slate-200 text-sm hover:bg-slate-50">Login</button>
+          <button class="px-4 py-1.5 rounded-md bg-yellow-400 text-sm font-semibold hover:bg-yellow-500">Register</button>
+        </div>
+
+        <!-- Mobile menu button -->
+        <div class="md:hidden">
+          <button id="mobileMenuBtn" aria-label="Open menu" class="p-2 rounded-md text-slate-700">
+            <i class="fa fa-bars text-lg"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile Menu (hidden by default) -->
+    <div id="mobileMenu" class="md:hidden hidden border-t border-slate-100">
+      <div class="px-4 py-4 space-y-3">
+        <a href="#" class="block text-slate-800 font-medium">Find a pet</a>
+        <a href="#" class="block text-slate-800 font-medium">Breeds</a>
+        <a href="#" class="block text-slate-800 font-medium">Contact us</a>
+        <div class="flex gap-3 mt-2">
+          <button class="flex-1 px-3 py-2 rounded-md border border-slate-200 text-sm">Login</button>
+          <button class="flex-1 px-3 py-2 rounded-md bg-yellow-400 text-sm font-semibold">Register</button>
+        </div>
+      </div>
+    </div>
+  </header>
     
 </body>
 </html>
