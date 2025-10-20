@@ -92,7 +92,7 @@ Open index.html directly in your browser:
 bash
 Copy code
 start index.html
-Or drag and drop it into your preferred browser window.
+Or simply drag and drop it into your preferred browser window.
 
 🧠 How It Works
 Tailwind CSS is loaded via CDN (no setup required)
@@ -132,12 +132,8 @@ No frameworks or build systems required
 
 Ideal for learning responsive design and UI layout with Tailwind
 
-
 💬 Credits
 Design & Development: Jonathan George Blaize Purification
-
 Icons: Font Awesome
-
 Font: Google Fonts – Poppins
-
 Images: Custom & free pet illustrations
