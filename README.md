@@ -7,7 +7,7 @@ This project focuses on delivering a visually appealing, accessible, and mobile-
 ---
 
 ## 🌐 Live Demo  
-👉 [Browse4Pets — Live Preview](#) *(Add your hosted link here, e.g., GitHub Pages or Netlify)*
+👉 [Browse4Pets — Live Preview](#) *https://georgeblaize.github.io/Pet-Shop/*
 
 ---
 
