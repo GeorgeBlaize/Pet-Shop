@@ -39,7 +39,7 @@ This project delivers a visually appealing, accessible, and mobile-friendly layo
 ---
 
 ## 🗂️ Folder Structure
-
+```
 browse4pets/
 │
 ├── index.html # Main landing page
@@ -62,7 +62,7 @@ browse4pets/
 
 yaml
 Copy code
-
+```
 ---
 
 ## ✨ Features
