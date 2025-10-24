@@ -7,9 +7,9 @@ This project delivers a visually appealing, accessible, and mobile-friendly layo
 ---
 
 ## 🌐 Live Demo  
-👉 [Browse4Pets — Live Preview](https://georgeblaize.github.io/Pet-Shop/)
+👉 [Browse4Pets — Live Preview](https://georgeblaize.github.io/pet-shop/)
 
-👉 **Live Demo:** [https://georgeblaize.github.io/Pet-Shop/](https://georgeblaize.github.io/Pet-Shop/)
+👉 **Live Demo:** [https://georgeblaize.github.io/pet-shop/](https://georgeblaize.github.io/pet-shop/)
 
 ---
 
